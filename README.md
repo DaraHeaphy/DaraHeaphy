@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DaraHeaphy
-- 👀 I’m interested in computers and coding.
-- 🌱 I’m currently learning how to become an established software engineer at the University of Limerick.
-- 💞️ I’m looking to collaborate on cool, interesting and innovative propjects with some of the top tech companies on the world.
+- 🌱 I’m currently studying Immersive Software Engineering at the University of Limerick.
 - 📫 How to reach me -> daraheaphy@gmail.com or 23369914@studentmail.ul.ie
 
 <!---
